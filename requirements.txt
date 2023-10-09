@@ -1,0 +1,10 @@
+pip>=20.0
+Flask>=3
+flask_restx>=0.5
+restx-monkey>=0.5
+Flask-Cors>=3.0
+arrow>=0.15.8
+Werkzeug>=3
+pre-commit
+inspect-it>=0.3
+uwsgi>=2.0.17.1
